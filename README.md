@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
+| [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
+| [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
