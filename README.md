@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
