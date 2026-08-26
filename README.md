@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0680-valid-palindrome-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0876-middle-of-the-linked-list) |
@@ -73,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
