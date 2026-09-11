@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0234-palindrome-linked-list) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0020-valid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
