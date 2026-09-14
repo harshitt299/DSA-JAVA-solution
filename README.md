@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitt299/DSA-JAVA-solution/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
